@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with: General coding practices
 - 💬 Ask me about: Quantum Computing, Quantum Technologies
 - 📫 How to reach me:
-    - :mail: [Email](mailto:julian.james196@gmail.com)
+    - :incoming_envelope: [Email](mailto:julian.james196@gmail.com)
     - :office: [LinkedIn](https://www.linkedin.com/in/julian-james1/)
 - ⚡ Fun fact: More monopoly money is printed in a year, than real money throughout the world
 
