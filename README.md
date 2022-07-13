@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<!--
 **julianJames196/julianJames196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+-->
 
 - 🔭 I’m currently working on: Quantum technologies
 - 🌱 I’m addicted to learning and growing. I particularly like learning about: psychology, philsophy and math(s)
