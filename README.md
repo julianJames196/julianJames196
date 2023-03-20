@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on: Quantum technologies
-- 🌱 I’m addicted to learning and growing. I particularly like learning about: psychology, philsophy and math(s)
+- 🌱 I’m addicted to learning and growing. I particularly like learning about: math(s), economics and psychology
 - 👯 I’m looking to collaborate on: Fast growing start-up technologies
 - 🤔 I’m looking for help with: General coding practices
 - 💬 Ask me about: Quantum Computing, Quantum Technologies
