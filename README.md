@@ -6,11 +6,11 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on: Quantum technologies and Data analytics
+- 🔭 I’m currently working on: Data science and Quantum technologies
 - 🌱 I’m addicted to learning and growing. I particularly like learning about: math(s), economics and psychology
 - 👯 I’m looking to collaborate on: growth based industry
 - 🤔 I’m looking for help with: General coding practices
-- 💬 Ask me about: Quantum Computing, Quantum Technologies, Data analytics
+- 💬 Ask me about: Quantum Computing, Data analytics, physics
 - 📫 How to reach me:
     - :incoming_envelope: [Email](mailto:julian.james196@gmail.com)
     - :office: [LinkedIn](https://www.linkedin.com/in/julian-james1/)
